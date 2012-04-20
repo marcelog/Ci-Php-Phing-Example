@@ -1,4 +1,4 @@
-<project name="CiPhp" default="all" basedir=".">
+<project name="App" default="all" basedir=".">
   <property file="./build.properties"/>
   <target name="prepare" depends="clean">
     <mkdir dir="${dir.output}"/>
