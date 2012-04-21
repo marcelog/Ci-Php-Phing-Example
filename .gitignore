@@ -1,4 +1,5 @@
 build/*
 vendor/*
 php.properties
+resources/php.ini
 
