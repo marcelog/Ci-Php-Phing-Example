@@ -1,0 +1,3 @@
+php.bin=/usr/php-5.3/bin/php
+defaultpear.bin=/usr/php-5.3/bin/pear
+
