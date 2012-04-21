@@ -1,0 +1,7 @@
+This is the example code for
+http://marcelog.github.com/articles/ci_jenkins_hudson_continuous_integration_php_phing.html
+
+A "full" application, including unit tests, ready to be configured in a CI server.
+
+Uses phing to run tests and generate the artifacts (code metrics and phar and pear distributions).
+
